@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Em à!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường `,
+    Mà sao em cứ đi nhầm đường vào tim anh `,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'Không, Anh trai à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Tại vì anh tuyệt vời',
+    reply: 'Tại vì anh yêu em nhiềuuuuuuuuuuu :yum:',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay anh qua chơi với em nhá.',
     btnAccept: 'Okiiiii lun <3',
